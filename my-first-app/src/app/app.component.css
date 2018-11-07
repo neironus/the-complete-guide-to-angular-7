@@ -17,6 +17,7 @@ input {
 }
 
 label {
+  margin-top: 10px;
   margin-bottom: 10px;
-  min-height: 20px;
+  min-height: 25px;
 }
