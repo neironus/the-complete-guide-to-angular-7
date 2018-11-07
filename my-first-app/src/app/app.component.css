@@ -1,0 +1,22 @@
+img {
+  width: 300px;
+}
+
+div {
+  text-align: center;
+}
+
+.testing-div {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+input {
+  max-width: 300px;
+}
+
+label {
+  margin-bottom: 10px;
+  min-height: 20px;
+}
